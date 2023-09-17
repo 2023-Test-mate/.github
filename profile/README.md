@@ -5,14 +5,7 @@
 <img width="800" alt="image" src="https://github.com/2023-Test-mate/.github/assets/103114387/8607cae2-8865-4a22-bd82-a9089f01478a">
 </div>
 
-## 주요기능
-![image]()
-
-## 배포 주소
-
-> **개발 버전** :<br>
-> **프론트 서버** : <br>
-> **백엔드 서버** : <br>
+## ✨ 주요기능
 
 
 ## 🛠 기술 스택
@@ -32,17 +25,20 @@
 - 
 
 
+## 👪 팀 소개
 
-
-
-
-## 개발팀 소개
-
-| 이지수 | 황슬기 | 박희현 | 임지현 | 황슬기기 |                                                                                                        
+| 이지수 | 황슬기 | 박희현 | 임지현 | 황채원 |                                                                                                        
 | :-----------: | :---------------: | :-------------: | :-------------: | :-------------: | 
 |   <img width="160px" src="" />    | <img width="160px" src="" /> | <img width="160px" src="" /> | <img width="160px" src="" /> | <img width="160px" src="" /> |
-|   [@]()   |    [@]()  | [@]()  |  [@]()  |  [@]()  |
+|   [@ezi-s-u](https://github.com/ezi-s-u)   |    [@sg-hwang-333](https://github.com/sg-hwang-333)  | [@huihyeon06](https://github.com/huihyeon06)  |  [@mic050r](https://github.com/mic050r)  |  [@]()  |
 | 프론트 | 프론트 | 백엔드 | 백엔드 | 디자인 | 
+
+
+## 🔗 배포 주소
+
+> **개발 버전** :<br>
+> **프론트 서버** : <br>
+> **백엔드 서버** : <br>
 
 
 
@@ -68,7 +64,7 @@ For building and running the application you need:
 
 ---
 
-- 
+
 ### Environment
            
 
