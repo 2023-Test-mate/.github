@@ -6,6 +6,12 @@
 </div>
 
 ## ✨ 주요기능
+![image](https://github.com/2023-Test-mate/.github/assets/103114387/33d5e38f-d2cb-40c0-b393-edc7aefdc191)
+![image](https://github.com/2023-Test-mate/.github/assets/103114387/d396168b-9b55-4f4b-9328-568e4e21977f)
+![image](https://github.com/2023-Test-mate/.github/assets/103114387/3c136cf5-90ed-43cf-b8cf-2f8a0d034706)
+![image](https://github.com/2023-Test-mate/.github/assets/103114387/30b4f980-b3f4-4070-98bb-452a55933bf7)
+![image](https://github.com/2023-Test-mate/.github/assets/103114387/adecca61-a293-4b68-93fc-af83e9c37788)
+![image](https://github.com/2023-Test-mate/.github/assets/103114387/ca81f122-82f2-4c03-9fd6-b571fcdb112f)
 
 
 ## 🛠 기술 스택
