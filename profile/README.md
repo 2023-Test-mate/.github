@@ -65,55 +65,6 @@
 | 이지수 | 황슬기 | 박희현 | 임지현 | 황채원 |                                                                                                        
 | :-----------: | :---------------: | :-------------: | :-------------: | :-------------: | 
 |   <img width="160px" src="" />    | <img width="160px" src="" /> | <img width="160px" src="" /> | <img width="160px" src="" /> | <img width="160px" src="" /> |
-|   [@ezi-s-u](https://github.com/ezi-s-u)   |    [@sg-hwang-333](https://github.com/sg-hwang-333)  | [@huihyeon06](https://github.com/huihyeon06)  |  [@mic050r](https://github.com/mic050r)  |  [@]()  |
+|   [@ezi-s-u](https://github.com/ezi-s-u)   |    [@sg-hwang-333](https://github.com/sg-hwang-333)  | [@huihyeon06](https://github.com/huihyeon06)  |  [@mic050r](https://github.com/mic050r)  |  [@chae-won]()  |
 | 프론트 | 프론트 | 백엔드 | 백엔드 | 디자인 | 
 
-
-## 🔗 배포 주소
-
-> **개발 버전** :<br>
-> **프론트 서버** : <br>
-> **백엔드 서버** : <br>
-
-
-
-## 시작 가이드
-### Requirements
-For building and running the application you need:
-
-
-
-### Installation
-``` bash
-
-```
-#### Backend
-```
-
-```
-
-#### Frontend
-```
-
-```
-
----
-
-
-### Environment
-           
-
-### Config
-   
-
-### Development
-
-
-### Communication
-
-
----
-
-## 아키텍쳐
-
-### 디렉토리 구조
