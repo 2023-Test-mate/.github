@@ -64,7 +64,6 @@
 
 | 이지수 | 황슬기 | 박희현 | 임지현 | 황채원 |                                                                                                        
 | :-----------: | :---------------: | :-------------: | :-------------: | :-------------: | 
-|   <img width="160px" src="" />    | <img width="160px" src="" /> | <img width="160px" src="" /> | <img width="160px" src="" /> | <img width="160px" src="" /> |
 |   [@ezi-s-u](https://github.com/ezi-s-u)   |    [@sg-hwang-333](https://github.com/sg-hwang-333)  | [@huihyeon06](https://github.com/huihyeon06)  |  [@mic050r](https://github.com/mic050r)  |  [@chae-won]()  |
 | 프론트 | 프론트 | 백엔드 | 백엔드 | 디자인 | 
 
